@@ -1,7 +1,5 @@
 # PowerPoint Karaoke
 
-Create a presentation about 10 slides random for a PowerPoint Karaoke using pictures.
-
 ## What is PowerPoint Karaoke?
 
 PowerPoint Karaoke (also known as Battle Decks) is an improvisational activity where participants present slideshows they have never seen before. The presenter must make up a presentation on the spot based on random slides.
